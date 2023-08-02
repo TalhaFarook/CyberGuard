@@ -1,4 +1,4 @@
-## CyberGuard
+# CyberGuard
 
 CyberGuard: Machine Learning Vigilance Against Online Harassment
 
